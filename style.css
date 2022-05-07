@@ -1,0 +1,119 @@
+body{
+	background-color: #094293;
+
+}
+#h1{
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+#h11{
+	margin: 25px;
+}
+.marco{
+    width:27.5%;
+	height:350px;
+	margin-left:4%;
+	border-width:2%;
+	float:left;
+}
+#Aros1{
+    width:10%;
+	height:30px;
+	background-color:blue;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros2{
+    width:20%;
+	height:30px;
+	background-color:red;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros3{
+    width:30%;
+	height:30px;
+	background-color:yellow;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros4{
+    width:40%;
+	height:30px;
+	background-color:green;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros5{
+    width:50%;
+	height:30px;
+	background-color:blue;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros6{
+    width:60%;
+	height:30px;
+	background-color:red;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros7{
+    width:70%;
+	height:30px;
+	background-color:yellow;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Aros8{
+    width:80%;
+	height:30px;
+	background-color:green;
+	margin-left:auto;
+	margin-right:auto;
+}
+.Aros{
+	border-radius: 15px;
+	box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+#Aros9{
+    width:90%;
+	height:30px;
+	background-color:brown;
+	margin-left:auto;
+	margin-right:auto;
+	align:bottom;
+}
+.relleno{
+    width:100%;
+	height:30px;
+}
+.marco:hover{
+	height: auto;
+    background-color:cyan;
+}
+#numero{
+	height: 30px;
+}
+#text{
+	height: 25px;;
+}
+#div1{
+    height: 400px;
+    width: 30cm;
+    margin: auto auto auto auto;
+    background-image: url("base.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+}
+#contador{
+	clear:both;
+	padding-top:3em;
+	color: white;
+}
+#btn{
+	display: flex;
+	justify-content: center;
+}
